@@ -1,0 +1,47 @@
+.heading{
+    padding-top: 7%;
+    text-align: center;
+    height: 665px;
+    background-color: rgba(107, 165, 165, 0.385);
+}
+
+.my-logo{
+    width: 10%;
+    height: 30%;
+}
+
+.my-name{
+    font-family: 'Tinos', serif;
+    font-size: 30px;
+}
+
+.desc{
+    font-size: 25px;
+}
+
+.handle{
+    width: 25%;
+    height: 6%;
+}
+
+.go{
+    width: 18%;
+}
+
+.problem-generator{
+    height: 100px;
+    background-color: rgb(159, 159, 203);
+}
+
+#footer {
+    padding: 0.2% 10%;
+    text-align: center;
+}
+
+.social-icon {
+    margin: 10px 10px;
+}
+
+input{
+    size: 200px;
+}
